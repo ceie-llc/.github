@@ -8,7 +8,8 @@ Welcome to **CEIE**, a suite of tools designed to streamline repository setup, a
 - **[CEIE 1.0](https://www.npmjs.com/package/git-setup-ceie)** – Automates Git setup, branching, and workflow standardization.  
 - **[CEIE 2.0](https://www.npmjs.com/package/ceie)** – Enhances automation with better stability and error handling.
 - **CEIE 3.0** - Work under progress.
-- **[CEIE 4.0](https://github.com/ceie-llc/VISTA)** – A custom Gradle versioning model to track and manage project versions efficiently.  
+- **[CEIE 4.0](https://github.com/ceie-llc/VISTA)** – A custom Gradle versioning model to track and manage project versions efficiently.
+- **CEIE 5.0** - Work under progress. 
 
 ## 📌 Why CEIE?  
 ✔ Automates tedious Git setup tasks  
